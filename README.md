@@ -1,0 +1,1 @@
+This is osongo's first git project
